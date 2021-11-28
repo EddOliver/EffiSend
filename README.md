@@ -4,8 +4,13 @@
 
 Welcome, this is our project for Celo’s Mobile online Hackathon.
 
-Por el peso del APK se decidio poner en un Bucket de AWS.
+Because of the size it is in an AWS bucket.
 APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk
+
+
+Here is our main demo video: 
+
+[![Demo](https://i.ibb.co/g4W3ypx/image.png)](FALTA EL LINK DEL VIDEO)
 
 # Introduction and Problem
 
@@ -21,7 +26,7 @@ We can say that because our team lives in one of those developing countries that
 
 And yes Mexico is the perfect target as it is the largest issuer of remittances from the US and it will break $42Billion this year alone.  
 
-(https://www.cnbv.gob.mx/Inclusi%C3%B3n/Anexos%20Inclusin%20Financiera/Panorama_IF_2021.pdf?utm_source=Panorama&utm_medium=email)
+<img src="https://cdn.howmuch.net/articles/outgoing-remittances-usa-final-8374.jpg">
 
 
 
@@ -37,7 +42,11 @@ It is important to mention that, according to the World Bank, 65% of Mexican adu
 
 Now let’s review a bit the CELO ecosystem. The concept to reach the unbanked via substituting the crypto address with the phone number is powerful. That has great potential as most of the population here, even unbanked, has a cellphone this number reaching almost 76% of the population.
 
+<img src="https://i.ibb.co/Qmx97cr/valora.png">
+
 When we went deeped our research we analyzed  the Valora wallet and application. Despite its great potential and a la Venmo but for crypto transfer capabilities we found great problems with its Cash Out portion. Xbox, Uber, google play and cell phone payments? Sorry for being aggressive, but this does not work for that unbanked population in any way, this is more for the “already banked” elite populace. Most remittances are done electronically yes, but through services like Western union where the families can get cash. This will never talk to them. 
+
+
 
 But I think that with certain systems that are already in place and the great potential of CELO we can produce a Dapp that does that cashout part correctly, directed at that populace, and improve on financial inclusion.
 
@@ -104,5 +113,8 @@ https://egade.tec.mx/es/egade-ideas/opinion/la-inclusion-financiera-en-mexico-re
 
 
 https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/OtrTemEcon/ENDUTIH_2020.pdf
+
+(https://www.cnbv.gob.mx/Inclusi%C3%B3n/Anexos%20Inclusin%20Financiera/Panorama_IF_2021.pdf?utm_source=Panorama&utm_medium=email)
+
 
 
