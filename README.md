@@ -8,9 +8,9 @@ Because of the size it is in an AWS bucket.
 APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk
 
 Para el login:
-User: celouser@gmail.com
 
-Pass: toor
+- User: celouser@gmail.com 
+- Pass: toor
 
 Here is our main demo video: 
 
