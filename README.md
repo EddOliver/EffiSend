@@ -4,7 +4,7 @@
 
 Welcome, this is our project for Celo’s Mobile online Hackathon.
 
-Por el peso del APK se decidio poner en un Bucket de AWS.
+Because of the size it is in an AWS bucket.
 APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk
 
 
