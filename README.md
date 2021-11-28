@@ -3,7 +3,7 @@
 
 # EffiSend
 
-<img src="https://i.ibb.co/QmMQvJv/images.png">
+<img src="https://i.ibb.co/QmMQvJv/images.png" width="300">
 
 Welcome, this is our project for Celo’s Mobile online Hackathon.
 
