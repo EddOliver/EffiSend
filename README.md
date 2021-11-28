@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](PONER VIDEO)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=_6Z8M9mn4YE)
 
 
 # EffiSend
@@ -17,7 +17,7 @@ Login:
 
 Here is our main demo video: 
 
-[![Demo](https://i.ibb.co/g4W3ypx/image.png)](FALTA EL LINK DEL VIDEO)
+[![Demo](https://i.ibb.co/g4W3ypx/image.png)](https://www.youtube.com/watch?v=_6Z8M9mn4YE)
 
 # Introduction and Problem
 
