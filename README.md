@@ -48,16 +48,16 @@ But I think that with certain systems that are already in place and the great po
 
 Apps Screens:
 
-<img src="https://i.ibb.co/0YbKvq2/Screenshot-1638060296.png" width="49%" >
-<img src="https://i.ibb.co/Jk3tQ5w/Screenshot-1638060313.png" width="49%" >
-<img src="https://i.ibb.co/PwmZbkS/Screenshot-1638060320.png" width="49%" >
-<img src="https://i.ibb.co/wZqt8DL/Screenshot-1638060322.png" width="49%" >
-<img src="https://i.ibb.co/GtsHKsc/Screenshot-1638060325.png" width="49%" >
-<img src="https://i.ibb.co/6bYQWXG/Screenshot-1638060335.png" width="49%" >
-<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="49%" >
-<img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="49%" >
+<img src="https://i.ibb.co/0YbKvq2/Screenshot-1638060296.png" width="24%" >
+<img src="https://i.ibb.co/Jk3tQ5w/Screenshot-1638060313.png" width="24%" >
+<img src="https://i.ibb.co/PwmZbkS/Screenshot-1638060320.png" width="24%" >
+<img src="https://i.ibb.co/wZqt8DL/Screenshot-1638060322.png" width="24%" >
+<img src="https://i.ibb.co/GtsHKsc/Screenshot-1638060325.png" width="24%" >
+<img src="https://i.ibb.co/6bYQWXG/Screenshot-1638060335.png" width="24%" >
+<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="24%" >
+<img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="24%" >
 
-<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="49%" >
+<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="24%" >
 
 <img src="https://i.ibb.co/cFX3NYb/Screenshot-from-2021-11-27-19-12-24.png">
 
