@@ -11,8 +11,7 @@ APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk
 
 Almost 4 years ago Vitalik Buterin, co founder of Ethereum posted in twitter this message:
 
-
-
+<img src="https://i.ibb.co/ggfZWPD/vitalik.png">
 
 At that time it grabbed the attention of almost the entire crypto space and the answers regarding that question were mostly a big “Not many if at all”. Of course there have been isolated projects that try to work with the developed world with several big names attached , but not to much avail. Cryptocurrencies and blockchain technology from that time onwards has mostly been used by a few early adopters and some others, but were mostly already banked, educated people, even in the developing world. 
 
