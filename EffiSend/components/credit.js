@@ -41,7 +41,7 @@ class Credit extends Component {
             let _this = this;
             this.axios({
                 method: 'get',
-                url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transfer',
+                url: 'https://XXXXXXXXXXX/transfer',
                 headers: {
                     'ewallets': "ewallet_d02b0876cf85ffe5ed92ab3cbdbc725a",
                     'ewalletd': this.state.ewallet,
@@ -55,7 +55,7 @@ class Credit extends Component {
                     console.log(response.data);
                     _this.axios({
                         method: 'get',
-                        url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transaction-decide',
+                        url: 'https://XXXXXXXXXXX/transaction-decide',
                         headers: {
                             'id': response.data.data.id,
                             'status': 'accept'

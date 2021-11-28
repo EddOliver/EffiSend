@@ -46,7 +46,7 @@ class Tab3 extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/create-SPEI',
+            url: 'https://XXXXXXXXXXX/create-SPEI',
             headers: {
                 'amount': this.state.amount,
             },

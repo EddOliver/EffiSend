@@ -19,7 +19,7 @@ class Fiat extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/get-account-balance',
+            url: 'https://XXXXXXXXXXX/get-account-balance',
             headers: {
                 'ewallet': this.state.ewallet
             },
@@ -33,7 +33,7 @@ class Fiat extends Component {
             });
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/get-transactions-ewallet',
+            url: 'https://XXXXXXXXXXX/get-transactions-ewallet',
             headers: {
                 'ewallet': this.state.ewallet
             },

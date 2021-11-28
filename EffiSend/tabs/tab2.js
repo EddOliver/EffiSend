@@ -40,7 +40,7 @@ class Tab2 extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/get-account-balance',
+            url: 'https://XXXXXXXXXXX/get-account-balance',
             headers: {
                 'ewallet': this.state.ewallet
             },
@@ -53,7 +53,7 @@ class Tab2 extends Component {
             .catch(function (error) {
                 console.log(error);
             });
-        this.axios.get('https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/get-rates', {
+        this.axios.get('https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/get-rates', {
             cancelToken: this.source.token
         }).then(function (response) {
             _this.setState({
@@ -64,7 +64,7 @@ class Tab2 extends Component {
         });
         this.axios({
             method: 'get',
-            url: 'https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/get-balance',
+            url: 'https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/get-balance',
             headers: {
                 'address': this.state.address
             },
@@ -89,7 +89,7 @@ class Tab2 extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transfer',
+            url: 'https://XXXXXXXXXXX/transfer',
             headers: {
                 'ewallets': this.state.ewallet,
                 'ewalletd': "ewallet_d02b0876cf85ffe5ed92ab3cbdbc725a",
@@ -102,7 +102,7 @@ class Tab2 extends Component {
                 let __this = _this;
                 _this.axios({
                     method: 'get',
-                    url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transaction-decide',
+                    url: 'https://XXXXXXXXXXX/transaction-decide',
                     headers: {
                         'id': response.data.data.id,
                         'status': 'accept'
@@ -125,7 +125,7 @@ class Tab2 extends Component {
             });
         this.axios({
             method: 'get',
-            url: 'https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/transfer-celo',
+            url: 'https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/transfer-celo',
             headers: {
                 'from': '0x34bEDa2a779096a2DcC1aAaf8B7790A5FF5349D9',
                 'to': '0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca',
@@ -149,7 +149,7 @@ class Tab2 extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transfer',
+            url: 'https://XXXXXXXXXXX/transfer',
             headers: {
                 'ewallets': "ewallet_d02b0876cf85ffe5ed92ab3cbdbc725a",
                 'ewalletd': this.state.ewallet,
@@ -162,7 +162,7 @@ class Tab2 extends Component {
                 let __this = _this;
                 _this.axios({
                     method: 'get',
-                    url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/transaction-decide',
+                    url: 'https://XXXXXXXXXXX/transaction-decide',
                     headers: {
                         'id': response.data.data.id,
                         'status': 'accept'
@@ -185,7 +185,7 @@ class Tab2 extends Component {
             });
         this.axios({
             method: 'get',
-            url: 'https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/transfer-celo',
+            url: 'https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/transfer-celo',
             headers: {
                 'from': '0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca',
                 'to': '0x34bEDa2a779096a2DcC1aAaf8B7790A5FF5349D9',

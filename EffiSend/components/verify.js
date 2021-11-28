@@ -36,7 +36,7 @@ class Verify extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://e9wzhv9k7d.execute-api.us-east-1.amazonaws.com/create-verification',
+            url: 'https://XXXXXXXXXXX/create-verification',
             headers: {
                 'contact': this.state.contact,
                 'ewallet': this.state.ewallet

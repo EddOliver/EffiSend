@@ -21,7 +21,7 @@ class Crypto extends Component {
         let _this = this;
         this.axios({
             method: 'get',
-            url: 'https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/get-balance',
+            url: 'https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/get-balance',
             headers: {
                 'address': this.state.address
             },
@@ -37,7 +37,7 @@ class Crypto extends Component {
         });
         this.axios({
             method: 'get',
-            url: 'https://fwzuwtkq52.execute-api.us-east-1.amazonaws.com/get-transactions',
+            url: 'https://XXXXXXXXXXX.execute-api.us-east-1.amazonaws.com/get-transactions',
             headers: {
                 'address': '0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca'
             },
