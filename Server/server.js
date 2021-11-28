@@ -11,8 +11,8 @@ const path = require('path');
 const app = express()
 const port = 8080
 
-const APIGATEWAY = "api.kharonprotocol.com"
-const APIGATEWAY2 = "fwzuwtkq52.execute-api.us-east-1.amazonaws.com"
+const APIGATEWAY = ""
+const APIGATEWAY2 = "xxxxxxxxxx.execute-api.us-east-1.amazonaws.com"
 
 function getInfoFromHTML(html, address) {
   let array = []
