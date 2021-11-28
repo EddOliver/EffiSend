@@ -62,9 +62,7 @@ Apps Screens:
 
 Gracias a las API's de Rapyd podemos hacer una gestion de usuarios, como lo son el registro, inicio de sesiones y KYC de nuestra app.
 
-||||
-:-:|:-:|:-:
-<img src="https://i.ibb.co/0YbKvq2/Screenshot-1638060296.png">|<img src="https://i.ibb.co/Jk3tQ5w/Screenshot-1638060313.png">|<img src="https://i.ibb.co/PwmZbkS/Screenshot-1638060320.png">
+<img src="https://i.ibb.co/BBWQ33m/Screenshot-1638060296.png">
 
 - A su vez mediante Rapyd y CELO podemos tener total control de los movimientos y transacciones des nuestra cuenta tanto en Crypto como en Fiat.
 
@@ -72,9 +70,7 @@ Gracias a las API's de Rapyd podemos hacer una gestion de usuarios, como lo son 
 
 - Las transferencias de Celo y Fiat las realizamos coordinando los servicios de Celo y Rapyd. Tranfiriendo el equivalente de CELO o Dolar americando desde las cuentas Master de EffiSend.
 
-||||
-:-:|:-:|:-:
-<img src="https://i.ibb.co/wZqt8DL/Screenshot-1638060322.png">|<img src="https://i.ibb.co/GtsHKsc/Screenshot-1638060325.png">|<img src="https://i.ibb.co/6bYQWXG/Screenshot-1638060335.png">
+<img src="https://i.ibb.co/kBZwZ0d/Screenshot-1638060296-1.png">
 
 - A su vez podemos obtener una tarjeta virtual desde la API de Rapyd para poder gastar el dinero de nuestra cuenta Fiat directamente.
 
@@ -84,9 +80,7 @@ Gracias a las API's de Rapyd podemos hacer una gestion de usuarios, como lo son 
 
 https://alfajores-blockscout.celo-testnet.org/address/0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca/token-transfers
 
-||||
-:-:|:-:|:-:
-<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png">|<img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png">|<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png">
+<img src="https://i.ibb.co/KqGVq5v/Screenshot-1638060296-2.png">
 
 - Y a su vez mostramos una captura de nuestro backend en Rapyd.
 
