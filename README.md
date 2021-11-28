@@ -60,7 +60,7 @@ System's Architecture:
 
 App Screens:
 
-Thanks to the Rapyd APIs we can manage users, such as registration, login and KYC of our app.
+Thanks to the Rapyd APIs we can manage users, such as registration, login and KYC of our app. (Rapyd is the world's largest payment processor system: https://www.rapyd.net/)
 
 <img src="https://i.ibb.co/BBWQ33m/Screenshot-1638060296.png">
 
@@ -95,7 +95,13 @@ Sorry github does not allow embed videos.
 
 # What's next for Effisend
 
-We 
+This application is directed at those who cannot benefit directly from cryptocurrency. It has the usual, both crypto and fiat wallets, transfers between crypto and fiat, transfers between crypto accounts and it gives a spin on the cash in - cash out portion of the equation as no other project provides it. It is very important if this application is going to benefit and bank people to be very agile and compatible with FIAT at least until crypto reaches mass market. Most of the developed world has not even incorporated to legacy electronic systems. 
+
+I think we can make the jump from those systems almost directly to self-banking, such as the jump that was made in some parts of Africa and even here in Latin America from skipping telephone landlines directly to Mobile phones. If that jump was made from that type of technology this one can be analogous and possible. 
+
+Regarding the application we would like to test it with real Capital perhaps in Q1 2022, but on the side of features and coding we still need to integrate the Celo address with the user's phone number (which we have, but would be useless in this scenario regarding a demo application that many people will be using) and apart from that we just need to activate Rapyd's backend and we are set to go. Rapyd allowed us to create an application very similar to Rappi (https://www.rappi.com) in this sense as it is the same service they use and we have some experience developing on it.
+
+Hopefully you liked the Mobile DApp, to see it in action in the future support it!
 
 # Team
 
@@ -108,7 +114,7 @@ We
 [<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
 
 
-Linkos
+## References:
 
 https://egade.tec.mx/es/egade-ideas/opinion/la-inclusion-financiera-en-mexico-retos-y-oportunidades
 
@@ -119,6 +125,10 @@ https://egade.tec.mx/es/egade-ideas/opinion/la-inclusion-financiera-en-mexico-re
 https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/OtrTemEcon/ENDUTIH_2020.pdf
 
 (https://www.cnbv.gob.mx/Inclusi%C3%B3n/Anexos%20Inclusin%20Financiera/Panorama_IF_2021.pdf?utm_source=Panorama&utm_medium=email)
+
+https://www.rappi.com
+
+https://www.rapyd.net/
 
 
 
