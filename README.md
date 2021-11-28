@@ -7,6 +7,11 @@ Welcome, this is our project for Celo’s Mobile online Hackathon.
 Por el peso del APK se decidio poner en un Bucket de AWS.
 APK: https://general-bucket-android.s3.amazonaws.com/app-debug.apk
 
+
+Here is our main demo video: 
+
+[![Demo](https://i.ibb.co/g4W3ypx/image.png)](FALTA EL LINK DEL VIDEO)
+
 # Introduction and Problem
 
 Almost 4 years ago Vitalik Buterin, co founder of Ethereum posted in twitter this message:
