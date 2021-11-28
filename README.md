@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://kharonprotocol.com) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=Fiele_PBU-0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](PONER VIDEO)
 
 
 # EffiSend
