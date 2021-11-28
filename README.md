@@ -46,25 +46,49 @@ But I think that with certain systems that are already in place and the great po
 
 2.- Demo
 
+Esquema de Conexiones:
+
+<img src="https://i.ibb.co/xCr1qDm/Untitled-Diagram-drawio.png">
+
 Apps Screens:
 
-<img src="https://i.ibb.co/0YbKvq2/Screenshot-1638060296.png" width="24%" >
-<img src="https://i.ibb.co/Jk3tQ5w/Screenshot-1638060313.png" width="24%" >
-<img src="https://i.ibb.co/PwmZbkS/Screenshot-1638060320.png" width="24%" >
-<img src="https://i.ibb.co/wZqt8DL/Screenshot-1638060322.png" width="24%" >
-<img src="https://i.ibb.co/GtsHKsc/Screenshot-1638060325.png" width="24%" >
-<img src="https://i.ibb.co/6bYQWXG/Screenshot-1638060335.png" width="24%" >
-<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="24%" >
-<img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="24%" >
+Gracias a las API's de Rapyd podemos hacer una gestion de usuarios, como lo son el registro, inicio de sesiones y KYC de nuestra app.
 
-<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="24%" >
+<img src="https://i.ibb.co/0YbKvq2/Screenshot-1638060296.png" width="33%" >
+<img src="https://i.ibb.co/Jk3tQ5w/Screenshot-1638060313.png" width="33%" >
+<img src="https://i.ibb.co/PwmZbkS/Screenshot-1638060320.png" width="33%" >
+
+- A su vez mediante Rapyd y CELO podemos tener total control de los movimientos y transacciones des nuestra cuenta tanto en Crypto como en Fiat.
+
+- Todas las trasacciones de CELO estan controladas mediante un servidor express en AWS con la interfaz de celocli.
+
+- Las transferencias de Celo y Fiat las realizamos coordinando los servicios de Celo y Rapyd. Tranfiriendo el equivalente de CELO o Dolar americando desde las cuentas Master de EffiSend.
+
+<img src="https://i.ibb.co/wZqt8DL/Screenshot-1638060322.png" width="33%" >
+<img src="https://i.ibb.co/GtsHKsc/Screenshot-1638060325.png" width="33%" >
+<img src="https://i.ibb.co/6bYQWXG/Screenshot-1638060335.png" width="33%" >
+
+- A su vez podemos obtener una tarjeta virtual desde la API de Rapyd para poder gastar el dinero de nuestra cuenta Fiat directamente.
+
+- Sobre todo Podemos Realizar una transferencia SPEI desde nuestra cuenta Fiat a una cuenta de banco o trajeta de debido Saldazo®.
+
+<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="33%" >
+<img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="33%" >
+
+- Todas las transferencias hechas en los demos y durante el desarrollo pueden ser consultadas en el explorer.
+
+https://alfajores-blockscout.celo-testnet.org/address/0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca/token-transfers
+
+<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="33%" >
+
+- Y a su vez mostramos una captura de nuestro backend en Rapyd.
 
 <img src="https://i.ibb.co/cFX3NYb/Screenshot-from-2021-11-27-19-12-24.png">
 
 Demo sin cortes:
 
 Video: Click on the image
-[![Demo](https://i.ibb.co/QmMQvJv/images.png)](https://youtu.be/Kue85N-CO2Q)
+[![Demo](https://i.ibb.co/g4W3ypx/image.png)](https://youtu.be/Kue85N-CO2Q)
 
 Sorry github does not allow embed videos.
 
