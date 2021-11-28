@@ -67,13 +67,11 @@ Gracias a las API's de Rapyd podemos hacer una gestion de usuarios, como lo son 
 
 - Sobre todo Podemos Realizar una transferencia SPEI desde nuestra cuenta Fiat a una cuenta de banco o trajeta de debido Saldazo®.
 
-<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="33%" ><img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="33%" >
+<img src="https://i.ibb.co/MZcRMMj/Screenshot-1638060342.png" width="33%" ><img src="https://i.ibb.co/6r6QqTJ/Screenshot-1638060355.png" width="33%" ><img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="33%" >
 
 - Todas las transferencias hechas en los demos y durante el desarrollo pueden ser consultadas en el explorer.
 
 https://alfajores-blockscout.celo-testnet.org/address/0xE7c1fc2B18A0Ee4F087694bca90436Eba6f16Fca/token-transfers
-
-<img src="https://i.ibb.co/tbtnWRz/Screenshot-1638060376.png" width="33%" >
 
 - Y a su vez mostramos una captura de nuestro backend en Rapyd.
 
